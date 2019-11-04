@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+        <color name="primaryColor">#36abff</color>
+        <color name="primaryLightColor">#7bdcff</color>
+        <color name="primaryDarkColor">#007ccb</color>
+       <color name="secondaryColor">#f5f5f5</color>
+        <color name="secondaryLightColor">#fafafa</color>
+        <color name="secondaryDarkColor">#eeeeee</color>
+        <color name="textColor">#080808</color>
+        <color name="hintColor">#adcfe7</color>
+        <color name="textViewColor">#943D91</color>
+        <color name="gray">#a39c9c</color>
+        <color name="gray_light">#DAD5D5</color>
+        <color name="dark_gray">#282727</color>
+        <color name="colorPrimaryText">#080808</color>
+        <color name="black">#080808</color>
+        <color name="btn_lottery">#1ee3cf</color>
+        <color name="btn_lottery2">#0EE4D0</color>
+
+
+        <!-- ALERT Button -->
+        <color name="brow">#4E342E</color>
+        <color name="brow_disabled">#A1887F</color>
+        <color name="brow_pressed">#8D6E63</color>
+
+        <color name="red">#C62828</color>
+        <color name="red_pressed">#EF5350</color>
+        <color name="red_disabled">#E57373</color>
+        <color name="white">#fdfdfd</color>
+        <color name="green">@color/primaryDarkColor</color>
+        <color name="green_disabled">@color/primaryLightColor</color>
+        <color name="green_pressed">@color/primaryColor</color>
+        <color name="foreground_material_dark">#bbc6ce</color>
+        <color name="text_color_primary">#04304f</color>
+        <!-- DataPicker -->
+        <color name="mdtp_accent_color">@color/primaryColor</color>
+        <color name="mdtp_accent_color_dark">@color/primaryDarkColor</color>
+        <color name="report_lottery">#aadcd9</color>
+
+    </resources>
+
+
